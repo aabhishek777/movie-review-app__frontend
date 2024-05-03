@@ -2,5 +2,5 @@
 
 
 export const api = axios.create({
-    baseURL:'http://localhost:5000/api'
+    baseURL:'https://movie-review-app-backend-8iqb.onrender.com/api'
   });
